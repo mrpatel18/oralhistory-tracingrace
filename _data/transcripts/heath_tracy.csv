@@ -1,0 +1,257 @@
+﻿timestamp,speaker,words,tags
+[00:00:00],Mansi," Yeah. Well, again, thank you so much for joining, um, and it's absolute pleasure to talk to you and it's my opportunity to, um, learn more. So yeah, just to get set up. Okay. Yeah. Now I, I have everything I need. Okay. Just to start with Dr. Heath, um, I would love to know your quick background and your journey so far at I S U.",
+[00:00:28],Dr. Heath," Um, okay, so I guess I'll start. Uh, you know, as an Asian woman, I am Filipino. Uh, my mom, uh, immigrated to North America from the Philippines in the sixties and met my father who's white. Um, and they met in Canada, even though neither of them are Canada and um, they had to get married. Uh, for her to come to the US and my father is a, was a physician.",Background
+[00:00:56],Dr. Heath," My mother's a nurse. It's the classic, uh, story of most, uh, people who are both white and Filipino, I guess. Um, and, uh, my father had a long career as a physician for the Indian Health Service, which is a part of the public health service that provides healthcare to, uh, native Americans, uh, in the us. My mom's a nurse and she was also nursing there, so we mostly lived in the southwestern part of the us.",Background
+[00:01:27],Dr. Heath," I'm, I consider myself from New Mexico, even though I've lived there only part of my life. My parents live in New Mexico now, but we moved all over. Mostly New Mexico, Arizona, and Oklahoma. And then I went to high school in the DC area when my father was doing some work at headquarters. So then I went to college at Boston University where I majored in biology.",Background
+[00:01:51],Dr. Heath," Uh, my interest was to pursue a future career in Zoology, even though I wasn't sure really what that was. Um, I didn't do great in school as an undergrad, I. Graduated maybe with like a, just over a 3.0. Um, but I was lucky enough to do well in my last year and like got research experiences like was hired as a lab tech, uh, in a research lab doing exactly the kind of thing that I wanted to do, which was studying evolutionary biology on, you know, vertebra organisms and, um, I managed the d n a sequencing facility at Boston University for a year and applied to grad school that year.",Background
+[00:02:37],Dr. Heath," Uh, so I applied to a few schools. I didn't get into very many, but I did get into University of Texas to work with David Hillis, who, uh, was well known for, uh, essentially. So he's a herpetologist, which is what we call people who study reptiles and amphibians. Mm-hmm. Um, but his, and also he's an evolutionary biologist and studies like sort of biodiversity, uh, broadly and methods, computational methods for analyzing data that we collect from the natural world to describe biodiversity essentially.",Education
+[00:03:14],Dr. Heath," And so I was really captivated by. The concept of a phylogenetic tree, which is a graph, a branching diagram that depicts the relationships among. Organisms, individuals, populations, gen generous, family species or whatever. So mostly we applied these, uh, methods to learn how, you know, we might be able to collect d n A from a bunch of different species and we want to know how those species are organized in the history of diversification.",Education
+[00:03:47],Dr. Heath," So I was really interested in the methods themselves as well as all the organisms. And so I applied to work in his lab and was lucky enough to get in and. Uh, did my PhD at University of Texas that was followed by, uh, a postdoc. I did maybe about five years of postdocs, uh, total across, uh, well I was at two universities, so the University of Kansas and, uh, university of California Berkeley.",Education
+[00:04:17],Dr. Heath," Um, and then working on developing statistical methods, uh, for analyzing. Species level biodiversity data and estimating these phylogenetic trees. So phylogenetic trees as a computational, uh, Problem is very hard, uh, in computer science. It's, you know, about as hard as it gets. It's like, um, and so, uh, so it's not just like a statistical problem, it's a computational problem, but it's also a really complex biological problem.",Education
+[00:04:51],Dr. Heath," So I'm really interested in like broad scale models, statistical models about how we might describe. How diversification among species and even broader groups have changed over time, over the planet and across like different groups in the tree of life. So I, even though I was trained in a herpetology lab, I never really like picked an organism because like, I'm a theoretician, like a methods person.",Education
+[00:05:21],Dr. Heath," So that's what I kind of worked on. And like I, I'm really in the field of what's called macro evolution. So, It's like really looking at these broad patterns across biodiversity and on the planet. Um, and that was what I was hired at Iowa State. Like the, the job posting that I applied to was macro evolution.",Education
+[00:05:42],Dr. Heath," Um, and so I, I was, uh, let's see. I applied in 2013. I. Signed the papers in 2014 and then moved here in January of 2015. So, and that's been my story so far. Well up until coming here. Okay.",Education
+[00:06:01],Mansi," Yeah. So it's been quite a few years for you at Iowa State? Yeah. Yeah. So, well, everything you told me was like mind boggling for me.",
+[00:06:11],Mansi," I was like, okay, wow, this is this. Okay. Yeah. Great. So what made you get into, um, evolutionary biology? What was going on in your mind when you actually picked the career?",
+[00:06:22],Dr. Heath," Yeah, so I don't think that, like when I was in high school or anything, like I thought evolutionary biology, but I think. Because I didn't really know that much about it in my high school, even though I went to a, a good public high school in Maryland.",Education
+[00:06:40],Dr. Heath," Like we didn't, like our sections on evolution were pretty still not very detailed and stuff. Um, so. When I, but I always was really interested in organisms, like especially animals like, which is almost true for most people who become biologists. They're like, they love animals, right? So, um, Yeah. So I mean, for me it was really like, like these nature magazines and stuff that we would get when I was young, like International Wildlife, national Wildlife, uh, and National Geographic, and then nature documentaries where, you know, David Attenborough describes the, you know, interesting mating patterns of orca or something like that.",Research
+[00:07:23],Dr. Heath," But, And it wasn't ever for me, like I love, it wasn't like I love frogs or I love penguins, which I love them both, but I, like, I wasn't really quite wedded to a single organism or group of organisms. Um, and I think that's why, like, because I'm mostly broadly interested in how we get so many diverse. Types of species and the amazing things that they do, right?",Research
+[00:07:52],Dr. Heath," Like, so biology is like, it's almost not general in certain ways where you don't see, you see repeating patterns, but you just see like innovations or weird, you know, sort of like evolution stories happening all the time. So like, that's what's, you know, it's always interesting. So that's kind of how like I got into, That.",Research
+[00:08:17],Dr. Heath," And then when I took Evolutionary Biology for the first time, which was my last semester of college, um, like it was, it, it was the first class that like totally clicked for me. It is. Um, I. Admittedly the only a I got in biology as an undergrad. I mean, I got some A minuses, but like I'm pretty, I think it might be one or two of the only a's that I got as a bio in biology.",Research
+[00:08:47],Dr. Heath," Um, but it was just like, you know, then as I was doing research and like kind of really understanding the process and really liking the people Yeah, that I was working with it just, It just sort of happened. Yeah, no,",Research
+[00:09:03],Mansi," that's great to know. Um, just like even if I see, um, so my mom actually is a binder biologist, so I remember her taking me to her lab and sometimes she'll be like, Hey, look into this Microsoft.",
+[00:09:16],Mansi," This is how you see. Yeah. And that's like my memory of my childhood and like my biologic class, how I got into interested. I'm in different field. I'm in business, but yeah. No. Yeah. Um, but thank you for sharing your journey so far. Um, and then, so it seems like you knew what you were doing. You had your, uh, path kind of, um, you, you knew this was the, as I'm getting, you know, like, so were there any specific challenges that you faced, um, throughout your journey?",
+[00:09:47],Dr. Heath," Um, I, I think probably the biggest challenge is, you know, like scholastically. Like I never really hit my groove as an undergrad. That was probably one of the biggest ones. Um, and, and you know, or at least not until at the end. And so that did make it really difficult for me. I. You know, was at a university that had undergraduate research opportunities and study abroad, but I wasn't really qualified for them because of my G P A.",Challenges
+[00:10:19],Dr. Heath," Yeah. Um, so it also made it difficult for me to like really know what my next step was. And it was sort of by accident. I. That I ended up getting an opportunity to research in a lab because my evolutionary biology professor recognized that I really liked the subject and I was doing well, was like, you should work in my lab.",Challenges
+[00:10:38],Dr. Heath," And I was like, okay. And so I, I did that on top of like waiting tables and working two restaurant jobs until. Someone convinced him that he should be paying me. Uh, and he actually back paid me. 'cause he was like, he realized he wasn't. Um, and then I got hired, like even just after a couple months, like to manage the sequencing facility, then that's where I realized like, oh, I'm actually okay at this.",Challenges
+[00:11:06],Dr. Heath," Like, I, like I'm good in the lab, although I don't work in the lab anymore. And like was really starting to understand like biology in a way that, you know, when I was an undergrad and I, I tell when I was teaching Intro bio, I tell students this all the time 'cause biology seems hard and probably this is true for any field where it's like when you're taking those big intro classes, it's like, When am I ever gonna know all this?",Challenges
+[00:11:34],Dr. Heath," All you're asking me to do is memorize stuff and, and to a degree. Yeah, that's true. And that's because it's like learning biology is like learning a language and, and you have to immerse yourself in it. And so when I reflect on where I was as a intro bio student versus where I am as an intro bio professor, I recognize the fluency that I've.",Challenges
+[00:11:57],Dr. Heath," Like acquired. And so just being able to see progress when you're like facing those set setbacks, like, has helped me like, like quite a lot. But um, yeah, and I would say that, you know, in terms of. Of just, you know, kind of being able to feel competent in my field. It really just took that time to do what most people do and learn.",Challenges
+[00:12:26],Dr. Heath," But, you know, as someone who struggled academically, that was probably just a, a, like one of the things that set me back.",Challenges
+[00:12:34],Mansi," No, thank you for, uh, sharing that for, uh, with me. Uh, well as we are addressing challenges, um, in your career when you picked your career and then when you became a faculty here, was higher at I s U, were there any challenges which were specifically based on gender based or racial identity based?",
+[00:12:55],Mansi," And you don't have to, if you want to skip this question, we can move on, but",
+[00:12:58],Dr. Heath," No, that's okay. I have reflected on this quite a lot in the history of my career because the, there's definitely a point when you just don't notice these things. You don't notice the fact that none of your professors look like you or, or none of, or very few of, like, even the TAs look like you, right?",Challenges
+[00:13:18],Dr. Heath," So, um, but the more you are in the field, the more you start recognizing where you. Might be a unicorn, right? So, um, I actually never, I don't, never in my life have, I had a professor in biology who was a woman. Um, and then definitely never any Filipino. There are very few Filipino, uh, like researchers in my field based in the us.",Challenges
+[00:13:48],Dr. Heath," Um, I like I've met a lot more recently who are younger than me, so that's exciting. Um, so that's always been like some, I, well actually, I. Let me correct the first statement. There was one, there was a woman who taught a third of my intro bio class my first year of college, and she promptly left the university the next year.",Challenges
+[00:14:10],Dr. Heath," So, um, uh, but like, yeah, so she was really the only woman I've ever had in the classroom as, uh, as a professor while getting my training. And so now I, I have. You know, it's quite different, right? There are many more women in academic roles, like in biology, um, probably more than most STEM fields, right? Like we see much more gender equity or representation of, of women and, and, uh, you know, but they're mostly white women too, right?",Challenges
+[00:14:46],Dr. Heath," And so, and, um, You know, so that's, that's actually one of those things that as you go further in your career, you recognize like, oh, these are where the, the. The representation of individuals in the seats in the classroom don't look like the people standing up in front of the projector. Right. So, so that's, that's kind of one of the, the major things that I've always like, has always been difficult to.",Challenges
+[00:15:19],Dr. Heath," To kind of navigate, especially 'cause I'm also in a highly computational and theoretical field, so most of my colleagues and collaborators in my field are white men. Mm-hmm. Um, and, uh, you know, to the point where, One of my, my main collaborators is, is a woman, and we met, uh, when we were both grad students.",Challenges
+[00:15:42],Dr. Heath," Her name starts with a t. We look nothing alike, but people always confuse us. So, you know, it's like, Like, people will refer to me as with her name and her as my name. And so, um, that happens less now though, I think. And like especially, but when we were first publishing together, that was happening a lot and, and stuff like that.",Challenges
+[00:16:05],Dr. Heath," And so, um, yeah. And it's just like, it's isolating sometimes. So, you know, and. It's one of those things where when you, even though you have very supportive and kind male colleagues, like they don't feel kind of the burden of being the only person. Yeah. Like them in the room. Yeah. Yeah,",Challenges
+[00:16:30],Mansi," absolutely. No, that's, and representation matters a lot.",
+[00:16:34],Mansi," I think, uh, you being part of multicultural Student Affairs faculty, uh, team, um, we talk a lot about representation and I, I mean, I just wish when I'm working in M S A that at least we can mentor a few students. You know, like few students comes out and like, yeah, they just think that No, I matter. I bring this to table.",Diversity
+[00:16:56],Dr. Heath," So, yeah. Yeah, and, and actually being part of the Carver program to me, like which I just started last fall, has been. Like probably one of the highlights of my career at Iowa State. Um, and it's just because, I mean, as much as I love teaching undergraduate courses, like some of my best and most enjoyable interactions with students, were the ones where you get to talk to them about things they care about and things they want to do, right?",Diversity
+[00:17:27],Dr. Heath," Not, I mean, about. You know, Hardy Weinberg equilibrium, which is something we teach in an intro bio. Um, you know, which I also like talking about. But, um, you know, but when they're asking about their career or like, or when you have a conversation with them and they've read something that is really exciting to them, that's way more fun than standing up in front of a classroom lecturing.",Diversity
+[00:17:52],Dr. Heath," And so, but then, you know, to be like with the students in the Carver program, All being students who come from, you know, diverse backgrounds, um, that, you know, to look at, at, at the kind of cohorts that you see in these groups. Like, it's just really exciting to see these people who can be change leaders in the future for, you know, Wherever they end up.",Diversity
+[00:18:21],Dr. Heath," Right. So, absolutely. So that's why that's been really great too. Yeah.",Diversity
+[00:18:25],Mansi," I'm glad to hear that. Uh, I look forward next year working with you again. Yeah. Um, so as we are talking about change and leadership, um, I will love to know, um, and this is like open-ended question, but like, what unique perspectives and contribution do you think Asian women bring to STEM fields?",
+[00:18:45],Mansi," Um, and if, yeah. Yeah,",
+[00:18:48],Dr. Heath," go ahead. I, I guess like. It really depends, right? Like, 'cause I mean, that's one of the things I struggle with being an Asian American woman who's also white, right? Like, so my father's white and I, I benefit from like my proximity to whiteness as well. But, and this is a very, so it's, it's pretty nuanced being Asian in the us, right?",Culture
+[00:19:11],Dr. Heath," We're all lumped together and like, My story as a Filipino woman who was born in the US with a white parent, like is really different from, you know, lots of my colleagues who, you know, immigrated here like as adults and, and you know, grew up their whole lives in, in, you know, the, their country of origin.",Culture
+[00:19:33],Dr. Heath," And so, but then even like my cousins who were, you know, born and raised in the us like both of their parents are Filipino. Like our experiences are really different. And so I think probably the, the, the way that like as Asian Americans or Asian women or Asians in higher education is that we, if you think about like the Asian American movement and it really was about, Like sort of a banding together.",Culture
+[00:20:04],Dr. Heath," Even though, you know, a lot of Filipino, Chinese, Japanese, like student activists in the West coast, they don't share culture, language or anything. They, they recognize that through connection, through the connection that we do have a history of immigration to the US and that's actually really important.",Culture
+[00:20:28],Dr. Heath," So, you know, even though it, it kind of is, Unsettling sometimes to be, you know, For all Asians to be part of this like monolithic race group where, you know, like you are South Asian and I'm Filipino. Like our, our cultures are so different, but there's still some things that we experience that are overlapping.",Culture
+[00:20:51],Dr. Heath," And so, so I think that that's really where there's the aspects of culture where we can come together is really helpful and it's been helpful for me. To, to connect with a other Asian faculty, like through things like the F ss a, because like we care about, like we care about our cultures, we care about talking about them, we care about our food, and we care about like, just being around other people who might have had similar experiences.",Culture
+[00:21:21],Dr. Heath," So I think maybe the, the. Kind of superpower that that we can bring is just being op, having our eyes open to, you know, the varied experience that comes with being Asian in the US and that. Acknowledging that that's diverse, which at least can help us understand the diverse experiences of people who aren't Asian.",
+[00:21:48],Dr. Heath," Yeah,",
+[00:21:48],Mansi," no, absolutely. Um, uh, thank you for that insightful answer. Um, and it's been great so far talking to you. And just for the interest of time, I'm going to jump to our kind of, uh, wrapping up two questions. So in terms of, you talked about your journey, uh, so far and your journey at I u so what do you perceive the progress in terms of diversity and inclusion you have seen so far on campus, and do you see any changes that have taken place so far or what changes would you like",
+[00:22:22],Dr. Heath," maybe, um, Question to answer right now.",Diversity
+[00:22:26],Dr. Heath," Okay. Being recorded, but I'll do my best. Um, because you probably also recognize that this is a challenging time for us where we are trying to make progressive changes to create welcoming spaces for students of color in, in a primarily white institution. Um, there are. Agencies that are working for against us who don't want to see that those changes because, uh, many people, when you're in a majority population, I.",Diversity
+[00:23:03],Dr. Heath," Some of these people are seeing equity as like, you know, or when equality happens, their rights are being taken away. But when you, like, there is that quote is when you're accustomed to privilege, equality feels like oppression, right? And that's what some of the things that we're seeing. And so that's a major challenge that, that we, that everyone who's working on a primarily white institution faces.",Diversity
+[00:23:30],Dr. Heath," But you know, when you also have, um, barriers, political barriers and other things that limit your, your reach. So, so I've seen a lot of support for these initiatives in the history of my experience at Iowa State. My, my husband also, um, is the director of a of a. Program for students who are underrepresented in stem.",Diversity
+[00:23:57],Dr. Heath," And so he's runs this undergraduate program. And so these are things that we think about on a daily basis and we talk about a lot. And we've, and the support that Iowa State has given to for his career has also been great. Um, and I've, I've seen a lot of recognition for the work that I've done, um, in these areas from the administration and others.",Diversity
+[00:24:20],Dr. Heath," So, And I, I do see a, a, a real desire to, to create supportive places for students who are marginalized on campus. Um, so that's what I hope to see. And I guess like, in terms of some of the things that I think that in order to, you know, really kind of get around some of the challenges that we have. With these types of efforts is we, we do them outside our universities.",Diversity
+[00:24:51],Dr. Heath," Right. So much of the work that I do, well, I guess in addition to what I do on campus is, is through my scientific societies. Um, I'm part of, uh, So I have one primary scientific society that is based in my field, and we are part of a consortium of evolutionary bio biology, scientific societies. And so we're working on new programs for leadership development, inclu inclusive leadership development within our societies.",Diversity
+[00:25:20],Dr. Heath," Um, we also do, uh, a lot of other activities to support like. Um, diversifying our field. And the other, the other organization that I I interact with a lot is the Society for the Advancement of his Chicanos, Hispanics, native Americans in Science Somas. Um, and so this is the largest stem diversity organ, uh, organization in the US in the world, probably.",Diversity
+[00:25:47],Dr. Heath," And so every year they have a conference, uh, and, uh, bringing together people from all over, uh, north America almost. And so, um, uh, you know, and this could be a, this is a conference of up to 6,000 people where many of those. Attendees or undergraduates looking, uh, for toward careers in STEM fields. And so I go to that every year and we have a SONIS chapter on campus that a lot of the students who've been in my lab, but also in our department and in my husband's program are involved in.",Diversity
+[00:26:20],Dr. Heath," And so we take a contingency of, of people to that conference, um, and recruit and, and. You know, create things from that. We learn from there and bring them back to Iowa State, to, to lead toward better practices of mentoring and, and working with students who are from really diverse backgrounds. So, I. I think that's, that's where I see progress is like these connections of, of we need institutional support, but we also, because you know, sometimes that's difficult to get is we find other places for that.",Diversity
+[00:26:59],Mansi," Absolutely. No, um, that is absolutely the thing we are talking in m s A as well because as you mentioned, it's difficult time for everyone. On campus as well. And how do we expand our wings outside of campus too, right? Because we, no matter what happens, but we need to support the community. We need to support, so.",
+[00:27:21],Mansi," Absolutely. Yeah. Um, so I would love to know one memorable accomplishment or contribution you would love, uh, you would like to, like us to have kind of with your profile on the website, which you would like to share.",
+[00:27:38],Dr. Heath," Um, I guess like since I, I think one of the, like I mentioned before, like working with the, the Carver programs probably one of the highlights of my career at Iowa State.",Research
+[00:27:49],Dr. Heath," But in terms of my research, like, uh, one of the, my main contributions to my field has been, you know, expanding and extending them a set of models for, um, Describing how diversification happens among species as well, especially when we're. Accounting for how those species are sampled in the fossil record.",Research
+[00:28:12],Dr. Heath," Mm-hmm. Um, and so this is a model that we call the fossilized birth death process. And like through the development of this method, I've been able to, um, uh, work on some really awesome empirical projects. So, um, I've had a long collaboration with the, um, a penguin paleontologist named Daniel Epca, and he, uh, Um, and so we published several papers and most recently we had a paper in this came out in February.",Research
+[00:28:40],Dr. Heath," Um, so his, our collaborators in New Zealand have described a, a new fossil penguin. Um, I guess I won't go into details for time, but um, uh, it is the largest. Uh, penguin species, uh, known. So it was about hundred 60 kilograms. They estimate. Oh my God. So they only have like the humerus bone. So they're able to extrapolate based on what they know about, you know, penguin growth curves and other things, like how big the, how much this penguin weighed.",Accomplishment
+[00:29:11],Dr. Heath," So, um, you know, slowly over like 300 pound penguin. And so they also think these penguins were like something like, Like six to six and a half feet tall. Oh, okay. So yeah. But most of the penguins in the fossil record were really big. And so one of the things we're interested in, now that we have more, like there are many more penguin species in the fossil record than there are living penguins.",Accomplishment
+[00:29:35],Dr. Heath," There's only about 20 living species. Why are they so small? So that's like sort of where we're going next and um, and this grant that we got to work on, these methods and penguins like, Has helped, uh, support, um, a museum exhibit at the Bruce Museum, which is in Connecticut that's open right now. So I'm very excited 'cause I'm gonna go see that this summer.",Accomplishment
+[00:29:58],Dr. Heath," Um, you know, penguin evolution and penguin diversity. So that's kind of, uh, kind of like my thing now. It's like, even though I've never been like someone who worked on a specific organism, like I've had like the great fortune to collaborate with on some really cool projects, and now I have like, Some expertise on penguins.",Accomplishment
+[00:30:19],Mansi," Yeah. That's so exciting. Congratulations, first of all. Um, and then, so is your current paper and everything, like the links available on website?",
+[00:30:29],Dr. Heath," On my website, you can find the link. Like there's the, the link to the, to the giant penguin one is probably one of the more recent papers. There was also an article, uh, about it on the, in the New York Times.",Accomplishment
+[00:30:40],Dr. Heath, Okay. So I think that's also linked on my website as well.,Accomplishment
+[00:30:43],Mansi," Absolutely. Yeah, I can definitely utilize that because I would love to highlight all the contributions. Definitely. And that is the purpose of my project. You know, uh, women, Asian women on campus are doing amazing job, especially, especially faculties, and my project is to highlight as many as possible.",
+[00:31:02],Mansi, So thank you so much for your time and thank you,
+[00:31:06],Dr. Heath, for,
+[00:31:06],Mansi," contacting me. So yeah, and if you have any other faculty members, you know, who would be a great recommendation for the project, do let me know. Yeah, I can",
+[00:31:16],Dr. Heath, definitely,
+[00:31:16],Mansi," email you. Absolutely. And if you have anything you would like to share us with your biographical profile on the website, you can always email me.",
+[00:31:24],Mansi," Okay. Great. But yeah, so much Dr. He, it was great talking to you. Thank you.",
+[00:31:29],Dr. Heath, Good luck with the rest of your,
+[00:31:31],Mansi," project. Thank you. Yeah, have a great",
+[00:31:33],Dr. Heath, day. You too. Bye-bye. Bye-bye.,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
